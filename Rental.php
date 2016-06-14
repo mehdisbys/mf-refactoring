@@ -40,6 +40,4 @@ class Rental
     {
         return $this->daysRented;
     }
-
-
 }
